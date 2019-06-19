@@ -2,11 +2,13 @@
     "orgName": "solutions-departmental-apps",
     "adminEmail": "shane@mailinator.com",
     "edition": "Developer",
-    "features": ["EinsteinBuilder", "DevelopmentWave"],
+    "features": ["EinsteinBuilderFree", "DevelopmentWave"],
     "settings": {
         "orgPreferenceSettings": {
             "s1DesktopEnabled": true,
-            "s1EncryptedStoragePref2": false
+            "s1EncryptedStoragePref2": false,
+            "pathAssistantsEnabled": true,
+            "selfSetPasswordInApi": true
         }
     }
 }
